@@ -9,16 +9,16 @@ Desenvolvido utilizando as seguintes tecnologias
 - [EXPRESS](https://www.npmjs.com/package/express)
 - [EXPRESS-VALIDATION](https://www.npmjs.com/package/express-validation)
 
-# COMO BAIXAR O PROJETO
+# COMO BAIXAR O PROJETO:
 
-# Clonar o repositório
+# 1 -Clonar o repositório
  git clone https://github.com/MedeirosCode/api-user-validation.git
 
- # Entrar no diretório
+ #2-  Entrar no diretório
    cd api-user-validation
 
- # Instalar as dependências
+ #3- Instalar as dependências
    npm install
   
-   # Iniciar o projeto
+   #4- Iniciar o projeto
    node index.js
