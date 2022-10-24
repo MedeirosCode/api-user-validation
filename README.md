@@ -14,11 +14,11 @@ Desenvolvido utilizando as seguintes tecnologias
 # 1 -Clonar o repositório
  git clone https://github.com/MedeirosCode/api-user-validation.git
 
- #2-  Entrar no diretório
+ # 2-  Entrar no diretório
    cd api-user-validation
 
- #3- Instalar as dependências
+ # 3- Instalar as dependências
    npm install
   
-   #4- Iniciar o projeto
+# 4- Iniciar o projeto
    node index.js
